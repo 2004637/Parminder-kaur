@@ -1,0 +1,45 @@
+print("*******PRACTICE DAY-2********")
+print("operators")
+print("1.arithmetic operator")
+print(10/2)
+print(4+5)
+print(10//2)
+print(2**3)
+print(5%2)
+print("2.relational operator")
+print(5<6)
+print(115>44)
+print(15>=15)
+print(115<=15)
+print(15==15)
+print(15!=20)
+print("3.logical operator")
+print(15>4 and 20<3)
+print(20>40 or 20>4)
+print(not(15>4))
+print("3.assignmet operator")
+a=15
+b=20
+print(a==b)
+a=a+4
+print(a)
+print("4.bitwise operator")
+print(10&5)
+print(4|5)
+print(~4)
+print(10<<2)
+print(10>>2)
+print("5.identity operator")
+c=15
+d=20
+print(c is d)
+print(c is not d)
+print("6.membership operator")
+ab="python class"
+print('t' in ab)
+print('z'not in ab)
+print("control statements")
+print("1.conditional statements")
+ab="my python class"
+print("if statement")
+if '…
